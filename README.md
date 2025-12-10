@@ -16,7 +16,7 @@ Menemukan pola dan segmen nasabah yang paling potensial untuk kampanye telemarke
 | 4 | Nasabah tanpa cicilan rumah (housing loan = no) 2× lebih mungkin subscribe | No housing loan → **16.7 %**<br>Yes housing loan → 7.7 % | Filter prospek yang **tidak sedang cicil KPR**          |
 | 5 | Durasi panggilan adalah indikator sukses real-time           | Rata-rata **537 detik** (yes)<br>vs **221 detik** (no) | Agent harus berusaha memperpanjang call > 6 menit       |
 
-![5 Key Charts]()  
+![5 Key Charts](dashboard/bank_marketing_dashboard.pdf)  
 *Semua chart dibuat hanya dengan PivotTable + Insert Chart di Microsoft Excel*
 
 ## File dalam Repository
