@@ -1,7 +1,7 @@
 # Bank Marketing Campaign Analysis  
 ### Exploratory Data Analysis menggunakan Excel & PivotTable  
 Dataset: [UCI Bank Marketing](https://archive.ics.uci.edu/dataset/222/bank+marketing)  
-4521 records │ 17 fitur │ Target: apakah nasabah subscribe term deposit (yes/no)
+45211 records │ 17 fitur │ Target: apakah nasabah subscribe term deposit (yes/no)
 
 ## Objective
 Menemukan pola dan segmen nasabah yang paling potensial untuk kampanye telemarketing berikutnya hanya dengan Excel PivotTable & Chart (tanpa coding).
