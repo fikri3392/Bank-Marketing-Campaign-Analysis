@@ -25,7 +25,7 @@ Menemukan pola dan segmen nasabah yang paling potensial untuk kampanye telemarke
 - `Dashboard/` → gambar chart dalam file pdf
 
 ## Kesimpulan & Rekomendasi Kampanye Berikutnya
-Dengan menerapkan 5 filter berikut secara bersamaan, bank dapat meningkatkan conversion rate dari 11.7 % menjadi > 50 %:
+Dengan menerapkan 5 filter berikut secara bersamaan, bank dapat meningkatkan conversion rate:
 1. `poutcome = success`  
 2. `month` ∈ {mar, sep, oct, dec}  
 3. `job` ∈ {student, retired}  
